@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Inheritance", "CShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_MethodHiding", "CSharp_MethodHiding\CSharp_MethodHiding.csproj", "{855E99C7-EB1D-4AC0-B086-21683B83DF9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Polymorphism", "CSharp_Polymorphism\CSharp_Polymorphism.csproj", "{9576D480-0CB8-47DD-96D3-912CD53FC605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{855E99C7-EB1D-4AC0-B086-21683B83DF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{855E99C7-EB1D-4AC0-B086-21683B83DF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{855E99C7-EB1D-4AC0-B086-21683B83DF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9576D480-0CB8-47DD-96D3-912CD53FC605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9576D480-0CB8-47DD-96D3-912CD53FC605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9576D480-0CB8-47DD-96D3-912CD53FC605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9576D480-0CB8-47DD-96D3-912CD53FC605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
