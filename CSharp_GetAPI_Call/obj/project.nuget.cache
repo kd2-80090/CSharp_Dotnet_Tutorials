@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7c7levL0kw=",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Tutorials\\CSharp_Tutorials\\CSharp_GetAPI_Call\\CSharp_GetAPI_Call.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NileshKatkar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

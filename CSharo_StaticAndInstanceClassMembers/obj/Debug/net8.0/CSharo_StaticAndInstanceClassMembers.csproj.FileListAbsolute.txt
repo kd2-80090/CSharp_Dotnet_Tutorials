@@ -1,0 +1,14 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\bin\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\bin\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\bin\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\bin\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\bin\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\obj\Debug\net8.0\refint\CSharo_StaticAndInstanceClassMembers.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharo_StaticAndInstanceClassMembers.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharo_StaticAndInstanceClassMembers\obj\Debug\net8.0\ref\CSharo_StaticAndInstanceClassMembers.dll

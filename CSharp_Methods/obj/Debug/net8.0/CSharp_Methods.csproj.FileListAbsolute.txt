@@ -1,0 +1,14 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\bin\Debug\net8.0\CSharp_Methods.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\bin\Debug\net8.0\CSharp_Methods.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\bin\Debug\net8.0\CSharp_Methods.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\bin\Debug\net8.0\CSharp_Methods.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\bin\Debug\net8.0\CSharp_Methods.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\obj\Debug\net8.0\CSharp_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\obj\Debug\net8.0\CSharp_Methods.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\obj\Debug\net8.0\CSharp_Methods.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\obj\Debug\net8.0\CSharp_Methods.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\obj\Debug\net8.0\CSharp_Methods.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\obj\Debug\net8.0\refint\CSharp_Methods.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\obj\Debug\net8.0\CSharp_Methods.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\obj\Debug\net8.0\CSharp_Methods.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Methods\obj\Debug\net8.0\ref\CSharp_Methods.dll

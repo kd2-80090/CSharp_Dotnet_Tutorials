@@ -1,0 +1,14 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\bin\Debug\net8.0\CSharp_Encapsulation.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\bin\Debug\net8.0\CSharp_Encapsulation.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\bin\Debug\net8.0\CSharp_Encapsulation.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\bin\Debug\net8.0\CSharp_Encapsulation.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\bin\Debug\net8.0\CSharp_Encapsulation.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\obj\Debug\net8.0\CSharp_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\obj\Debug\net8.0\CSharp_Encapsulation.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\obj\Debug\net8.0\CSharp_Encapsulation.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\obj\Debug\net8.0\CSharp_Encapsulation.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\obj\Debug\net8.0\CSharp_Encapsulation.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\obj\Debug\net8.0\refint\CSharp_Encapsulation.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\obj\Debug\net8.0\CSharp_Encapsulation.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\obj\Debug\net8.0\CSharp_Encapsulation.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Encapsulation\obj\Debug\net8.0\ref\CSharp_Encapsulation.dll

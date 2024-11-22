@@ -1,0 +1,17 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\bin\Debug\net8.0\CSharp_GetAPI_Call.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\bin\Debug\net8.0\CSharp_GetAPI_Call.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\bin\Debug\net8.0\CSharp_GetAPI_Call.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\bin\Debug\net8.0\CSharp_GetAPI_Call.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\bin\Debug\net8.0\CSharp_GetAPI_Call.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\obj\Debug\net8.0\CSharp_GetAPI_Call.csproj.AssemblyReference.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\obj\Debug\net8.0\CSharp_GetAPI_Call.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\obj\Debug\net8.0\CSharp_GetAPI_Call.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\obj\Debug\net8.0\CSharp_GetAPI_Call.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\obj\Debug\net8.0\CSharp_GetAPI_Call.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\obj\Debug\net8.0\CSharp_G.F015FAB6.Up2Date
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\obj\Debug\net8.0\CSharp_GetAPI_Call.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\obj\Debug\net8.0\refint\CSharp_GetAPI_Call.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\obj\Debug\net8.0\CSharp_GetAPI_Call.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\obj\Debug\net8.0\CSharp_GetAPI_Call.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_GetAPI_Call\obj\Debug\net8.0\ref\CSharp_GetAPI_Call.dll

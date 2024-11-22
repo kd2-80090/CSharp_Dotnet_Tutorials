@@ -1,0 +1,14 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\bin\Debug\net8.0\CSharp_For_Foreach_Loop.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\bin\Debug\net8.0\CSharp_For_Foreach_Loop.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\bin\Debug\net8.0\CSharp_For_Foreach_Loop.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\bin\Debug\net8.0\CSharp_For_Foreach_Loop.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\bin\Debug\net8.0\CSharp_For_Foreach_Loop.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\obj\Debug\net8.0\CSharp_For_Foreach_Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\obj\Debug\net8.0\CSharp_For_Foreach_Loop.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\obj\Debug\net8.0\CSharp_For_Foreach_Loop.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\obj\Debug\net8.0\CSharp_For_Foreach_Loop.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\obj\Debug\net8.0\CSharp_For_Foreach_Loop.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\obj\Debug\net8.0\refint\CSharp_For_Foreach_Loop.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\obj\Debug\net8.0\CSharp_For_Foreach_Loop.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\obj\Debug\net8.0\CSharp_For_Foreach_Loop.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_For_Foreach_Loop\obj\Debug\net8.0\ref\CSharp_For_Foreach_Loop.dll

@@ -1,0 +1,11 @@
+D:\C#\Tutorials\CSharp_Tutorials\ProjectA.TeamA\bin\Debug\net8.0\ProjectA.TeamA.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\ProjectA.TeamA\bin\Debug\net8.0\ProjectA.TeamA.dll
+D:\C#\Tutorials\CSharp_Tutorials\ProjectA.TeamA\bin\Debug\net8.0\ProjectA.TeamA.pdb
+D:\C#\Tutorials\CSharp_Tutorials\ProjectA.TeamA\obj\Debug\net8.0\ProjectA.TeamA.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\ProjectA.TeamA\obj\Debug\net8.0\ProjectA.TeamA.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\ProjectA.TeamA\obj\Debug\net8.0\ProjectA.TeamA.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\ProjectA.TeamA\obj\Debug\net8.0\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\ProjectA.TeamA\obj\Debug\net8.0\ProjectA.TeamA.dll
+D:\C#\Tutorials\CSharp_Tutorials\ProjectA.TeamA\obj\Debug\net8.0\refint\ProjectA.TeamA.dll
+D:\C#\Tutorials\CSharp_Tutorials\ProjectA.TeamA\obj\Debug\net8.0\ProjectA.TeamA.pdb
+D:\C#\Tutorials\CSharp_Tutorials\ProjectA.TeamA\obj\Debug\net8.0\ref\ProjectA.TeamA.dll

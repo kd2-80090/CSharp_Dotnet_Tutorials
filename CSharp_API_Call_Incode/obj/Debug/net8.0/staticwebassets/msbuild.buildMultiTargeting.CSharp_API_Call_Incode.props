@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CSharp_API_Call_Incode.props" />
+</Project>
