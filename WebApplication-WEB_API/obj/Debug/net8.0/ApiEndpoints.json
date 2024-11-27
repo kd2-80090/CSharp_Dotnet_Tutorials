@@ -1,0 +1,93 @@
+[
+  {
+    "ContainingType": "WebApplication_WEB_API.Controllers.DetailController",
+    "Method": "AddDetail",
+    "RelativePath": "api/Detail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "detail",
+        "Type": "WebApplication_WEB_API.Models.Detail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication_WEB_API.Controllers.DetailController",
+    "Method": "GetAllDetails",
+    "RelativePath": "api/Detail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebApplication_WEB_API.Models.Detail, WebApplication-WEB_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/xml",
+          "text/xml",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication_WEB_API.Controllers.DetailController",
+    "Method": "GetDetailById",
+    "RelativePath": "api/Detail/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebApplication_WEB_API.Models.Detail",
+        "MediaTypes": [
+          "application/xml",
+          "text/xml",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApplication_WEB_API.Controllers.DetailController",
+    "Method": "GetItemsByAddress",
+    "RelativePath": "api/Detail/searchByAddress",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "address",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebApplication_WEB_API.Models.Detail, WebApplication-WEB_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/xml",
+          "text/xml",
+          "application/xml",
+          "text/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

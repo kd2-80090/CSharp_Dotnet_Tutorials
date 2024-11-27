@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ASP.NET Web API</title>
+    <link href="../../Content/Site.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            // Fetch XML data
+            $.ajax({
+                url: "api/detail/",
+                dataType: "xml", // Specify that we expect XML data
+                success: function (data) {
+                    // Parse XML and loop through each <Detail> element
+                    $(data).find("Detail").each(function () {
+                        var name = $(this).find("Name").text();
+                        var salary = $(this).find("Salary").text();
+                        var str = name + ': $' + salary;
+
+                        // Append each item as a list item to the 'details' ul
+                        $('<li/>', { text: str }).appendTo($('#details'));
+                    });
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    console.error("Error fetching data: " + textStatus + ", " + errorThrown);
+                }
+            });
+        });
+
+        // Function to search for an item by ID
+        function find() {
+            var id = $('#detId').val();
+            $.ajax({
+                url: "api/detail/" + id,
+                dataType: "xml", // Expect XML response
+                success: function (data) {
+                    var name = $(data).find("Name").text();
+                    var salary = $(data).find("Salary").text();
+                    var str = name + ': $' + salary;
+
+                    // Display the searched detail
+                    $('#detail').text(str);
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    $('#detail').text('Error: ' + errorThrown);
+                }
+            });
+        }
+    </script>
+</head>
+<body id="body">
+    <div class="main-content">
+        <div>
+            <h1>Showing All Items</h1>
+            <!-- Changed id from 'detail' to 'details' to match the ul element -->
+            <ul id="details"></ul>
+        </div>
+        <div>
+            <label for="detId">ID:</label>
+            <input type="text" id="detId" size="5" />
+            <input type="button" value="Search" onclick="find();" />
+            <!-- This will display the searched detail -->
+            <p id="detail"></p>
+        </div>
+    </div>
+</body>
+</html>

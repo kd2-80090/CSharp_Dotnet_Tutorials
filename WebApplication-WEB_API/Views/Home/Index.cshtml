@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ASP.NET Web API - Add Detail</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#addDetailButton').click(function () {
+                var name = $('#name').val();
+                var address = $('#address').val();
+                var salary = $('#salary').val();
+
+                // Validate the input fields
+                if (!name || !address || !salary) {
+                    alert('Please fill out all fields.');
+                    return;
+                }
+
+                // Create XML string with the correct namespace and data structure
+                var xmlData = `
+                    <Detail xmlns="http://schemas.datacontract.org/2004/07/WebApplication_WEB_API.Models">
+                        <Name>${name}</Name>
+                        <Address>${address}</Address>
+                        <Salary>${salary}</Salary>
+                    </Detail>
+                `;
+
+                // Send the XML via a POST request
+                $.ajax({
+                    url: 'https://localhost:44321/api/detail',
+                    type: 'POST',
+                    data: xmlData,
+                    contentType: 'application/xml',  // Set content type to application/xml
+                    success: function (response) {
+                        alert('Detail added successfully!');
+                    },
+                    error: function (xhr, status, error) {
+                        alert('Error: ' + xhr.responseText);  // Show error details
+                    }
+                });
+            });
+        });
+    </script>
+
+</head>
+<body>
+    <div>
+        <h1>Add Detail</h1>
+        <form>
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name"><br><br>
+            <label for="address">Address:</label><br>
+            <input type="text" id="address" name="address"><br><br>
+            <label for="salary">Salary:</label><br>
+            <input type="number" id="salary" name="salary"><br><br>
+            <button type="button" id="addDetailButton">Add Detail</button>
+        </form>
+    </div>
+</body>
+</html>

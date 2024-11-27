@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "CrudOperationWithMongoDB.Controllers.CrudOperationController",
+    "Method": "GetAllRecords",
+    "RelativePath": "api/CrudOperation/GetAllRecords",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CrudOperationWithMongoDB.Controllers.CrudOperationController",
+    "Method": "InsertRecord",
+    "RelativePath": "api/CrudOperation/InsertRecord",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insertRecordRequest",
+        "Type": "CrudOperationWithMongoDB.Model.InsertRecordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

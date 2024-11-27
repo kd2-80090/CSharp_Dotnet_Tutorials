@@ -21,13 +21,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Classes", "CSharp_Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Encapsulation", "CSharp_Encapsulation\CSharp_Encapsulation.csproj", "{6D789F11-BADF-4F4E-A6D6-EA62E80E4A79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharo_StaticAndInstanceClassMembers", "CSharo_StaticAndInstanceClassMembers\CSharo_StaticAndInstanceClassMembers.csproj", "{08DCB91A-3CE9-470F-AFC8-C4550F3B3D08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_StaticAndInstanceClassMembers", "CSharo_StaticAndInstanceClassMembers\CSharp_StaticAndInstanceClassMembers.csproj", "{08DCB91A-3CE9-470F-AFC8-C4550F3B3D08}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Inheritance", "CSharp_Inheritance\CSharp_Inheritance.csproj", "{055B9681-B151-4763-B7B1-959BEC35509E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_MethodHiding", "CSharp_MethodHiding\CSharp_MethodHiding.csproj", "{855E99C7-EB1D-4AC0-B086-21683B83DF9E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Polymorphism", "CSharp_Polymorphism\CSharp_Polymorphism.csproj", "{9576D480-0CB8-47DD-96D3-912CD53FC605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication-WEB_API", "WebApplication-WEB_API\WebApplication-WEB_API.csproj", "{C6AD7546-FFC7-46A2-B960-7842479AFB81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudOperationWithMongoDB", "CrudOperationWithMongoDB\CrudOperationWithMongoDB.csproj", "{BA0D925A-0114-4791-A950-E25EF092ACC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{9576D480-0CB8-47DD-96D3-912CD53FC605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9576D480-0CB8-47DD-96D3-912CD53FC605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9576D480-0CB8-47DD-96D3-912CD53FC605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AD7546-FFC7-46A2-B960-7842479AFB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AD7546-FFC7-46A2-B960-7842479AFB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AD7546-FFC7-46A2-B960-7842479AFB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AD7546-FFC7-46A2-B960-7842479AFB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0D925A-0114-4791-A950-E25EF092ACC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0D925A-0114-4791-A950-E25EF092ACC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0D925A-0114-4791-A950-E25EF092ACC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0D925A-0114-4791-A950-E25EF092ACC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
