@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_Encapsulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1094f3ba80aabdcb600031bff7ee8ce6a53a393")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6470b0e9309a68a0e738eea785b9bf24d2f1dfb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp_Encapsulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp_Encapsulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

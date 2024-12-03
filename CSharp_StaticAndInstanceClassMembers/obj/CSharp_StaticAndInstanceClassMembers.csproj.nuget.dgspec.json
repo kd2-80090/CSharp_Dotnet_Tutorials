@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Tutorials\\CSharp_Tutorials\\CSharo_StaticAndInstanceClassMembers\\CSharp_StaticAndInstanceClassMembers.csproj": {}
+    "D:\\C#\\Tutorials\\CSharp_Tutorials\\CSharp_StaticAndInstanceClassMembers\\CSharp_StaticAndInstanceClassMembers.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Tutorials\\CSharp_Tutorials\\CSharo_StaticAndInstanceClassMembers\\CSharp_StaticAndInstanceClassMembers.csproj": {
+    "D:\\C#\\Tutorials\\CSharp_Tutorials\\CSharp_StaticAndInstanceClassMembers\\CSharp_StaticAndInstanceClassMembers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Tutorials\\CSharp_Tutorials\\CSharo_StaticAndInstanceClassMembers\\CSharp_StaticAndInstanceClassMembers.csproj",
+        "projectUniqueName": "D:\\C#\\Tutorials\\CSharp_Tutorials\\CSharp_StaticAndInstanceClassMembers\\CSharp_StaticAndInstanceClassMembers.csproj",
         "projectName": "CSharp_StaticAndInstanceClassMembers",
-        "projectPath": "D:\\C#\\Tutorials\\CSharp_Tutorials\\CSharo_StaticAndInstanceClassMembers\\CSharp_StaticAndInstanceClassMembers.csproj",
+        "projectPath": "D:\\C#\\Tutorials\\CSharp_Tutorials\\CSharp_StaticAndInstanceClassMembers\\CSharp_StaticAndInstanceClassMembers.csproj",
         "packagesPath": "C:\\Users\\NileshKatkar\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Tutorials\\CSharp_Tutorials\\CSharo_StaticAndInstanceClassMembers\\obj\\",
+        "outputPath": "D:\\C#\\Tutorials\\CSharp_Tutorials\\CSharp_StaticAndInstanceClassMembers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

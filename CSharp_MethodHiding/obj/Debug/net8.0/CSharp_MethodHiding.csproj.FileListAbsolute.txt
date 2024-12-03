@@ -12,3 +12,4 @@ D:\C#\Tutorials\CSharp_Tutorials\CSharp_MethodHiding\obj\Debug\net8.0\refint\CSh
 D:\C#\Tutorials\CSharp_Tutorials\CSharp_MethodHiding\obj\Debug\net8.0\CSharp_MethodHiding.pdb
 D:\C#\Tutorials\CSharp_Tutorials\CSharp_MethodHiding\obj\Debug\net8.0\CSharp_MethodHiding.genruntimeconfig.cache
 D:\C#\Tutorials\CSharp_Tutorials\CSharp_MethodHiding\obj\Debug\net8.0\ref\CSharp_MethodHiding.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_MethodHiding\obj\Debug\net8.0\CSharp_MethodHiding.sourcelink.json

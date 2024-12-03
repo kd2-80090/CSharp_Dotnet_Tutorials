@@ -120,3 +120,12 @@
 
 ///Protected Internal Access Specifier
 
+
+class Application
+{
+    public static void Main()
+    {
+        Console.WriteLine("Main Method Working Fine");
+    }
+}
+

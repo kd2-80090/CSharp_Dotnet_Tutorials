@@ -21,8 +21,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Classes", "CSharp_Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Encapsulation", "CSharp_Encapsulation\CSharp_Encapsulation.csproj", "{6D789F11-BADF-4F4E-A6D6-EA62E80E4A79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_StaticAndInstanceClassMembers", "CSharo_StaticAndInstanceClassMembers\CSharp_StaticAndInstanceClassMembers.csproj", "{08DCB91A-3CE9-470F-AFC8-C4550F3B3D08}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Inheritance", "CSharp_Inheritance\CSharp_Inheritance.csproj", "{055B9681-B151-4763-B7B1-959BEC35509E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_MethodHiding", "CSharp_MethodHiding\CSharp_MethodHiding.csproj", "{855E99C7-EB1D-4AC0-B086-21683B83DF9E}"
@@ -32,6 +30,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication-WEB_API", "WebApplication-WEB_API\WebApplication-WEB_API.csproj", "{C6AD7546-FFC7-46A2-B960-7842479AFB81}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudOperationWithMongoDB", "CrudOperationWithMongoDB\CrudOperationWithMongoDB.csproj", "{BA0D925A-0114-4791-A950-E25EF092ACC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_NullableTypes", "CSharp_NullableTypes\CSharp_NullableTypes.csproj", "{AEFCAF78-3F3D-4951-93BA-FE250F8800EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_MethodOverriding_MethodHiding_Difference", "CSharp_MethodOverriding_MethodHiding_Difference\CSharp_MethodOverriding_MethodHiding_Difference.csproj", "{FE4AAA43-C3C0-4A71-BF67-473C9E1D2C20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,10 +77,6 @@ Global
 		{6D789F11-BADF-4F4E-A6D6-EA62E80E4A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D789F11-BADF-4F4E-A6D6-EA62E80E4A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D789F11-BADF-4F4E-A6D6-EA62E80E4A79}.Release|Any CPU.Build.0 = Release|Any CPU
-		{08DCB91A-3CE9-470F-AFC8-C4550F3B3D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08DCB91A-3CE9-470F-AFC8-C4550F3B3D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{08DCB91A-3CE9-470F-AFC8-C4550F3B3D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08DCB91A-3CE9-470F-AFC8-C4550F3B3D08}.Release|Any CPU.Build.0 = Release|Any CPU
 		{055B9681-B151-4763-B7B1-959BEC35509E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{055B9681-B151-4763-B7B1-959BEC35509E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{055B9681-B151-4763-B7B1-959BEC35509E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -99,6 +97,14 @@ Global
 		{BA0D925A-0114-4791-A950-E25EF092ACC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA0D925A-0114-4791-A950-E25EF092ACC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA0D925A-0114-4791-A950-E25EF092ACC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFCAF78-3F3D-4951-93BA-FE250F8800EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFCAF78-3F3D-4951-93BA-FE250F8800EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFCAF78-3F3D-4951-93BA-FE250F8800EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFCAF78-3F3D-4951-93BA-FE250F8800EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE4AAA43-C3C0-4A71-BF67-473C9E1D2C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4AAA43-C3C0-4A71-BF67-473C9E1D2C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4AAA43-C3C0-4A71-BF67-473C9E1D2C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4AAA43-C3C0-4A71-BF67-473C9E1D2C20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\bin\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\bin\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\bin\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\bin\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\bin\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\obj\Debug\net8.0\refint\CSharp_StaticAndInstanceClassMembers.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\obj\Debug\net8.0\CSharp_StaticAndInstanceClassMembers.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_StaticAndInstanceClassMembers\obj\Debug\net8.0\ref\CSharp_StaticAndInstanceClassMembers.dll
