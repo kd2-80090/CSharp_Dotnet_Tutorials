@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\bin\Debug\net6.0\CSharp_PreprocessorDirectives.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\bin\Debug\net6.0\CSharp_PreprocessorDirectives.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\bin\Debug\net6.0\CSharp_PreprocessorDirectives.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\bin\Debug\net6.0\CSharp_PreprocessorDirectives.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\bin\Debug\net6.0\CSharp_PreprocessorDirectives.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\obj\Debug\net6.0\CSharp_PreprocessorDirectives.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\obj\Debug\net6.0\CSharp_PreprocessorDirectives.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\obj\Debug\net6.0\CSharp_PreprocessorDirectives.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\obj\Debug\net6.0\CSharp_PreprocessorDirectives.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\obj\Debug\net6.0\CSharp_PreprocessorDirectives.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\obj\Debug\net6.0\CSharp_PreprocessorDirectives.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\obj\Debug\net6.0\refint\CSharp_PreprocessorDirectives.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\obj\Debug\net6.0\CSharp_PreprocessorDirectives.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\obj\Debug\net6.0\CSharp_PreprocessorDirectives.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_PreprocessorDirectives\obj\Debug\net6.0\ref\CSharp_PreprocessorDirectives.dll

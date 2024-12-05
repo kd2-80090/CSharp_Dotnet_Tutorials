@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\bin\Debug\net6.0\CSharp_RegularExpressions.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\bin\Debug\net6.0\CSharp_RegularExpressions.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\bin\Debug\net6.0\CSharp_RegularExpressions.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\bin\Debug\net6.0\CSharp_RegularExpressions.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\bin\Debug\net6.0\CSharp_RegularExpressions.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\obj\Debug\net6.0\CSharp_RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\obj\Debug\net6.0\CSharp_RegularExpressions.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\obj\Debug\net6.0\CSharp_RegularExpressions.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\obj\Debug\net6.0\CSharp_RegularExpressions.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\obj\Debug\net6.0\CSharp_RegularExpressions.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\obj\Debug\net6.0\CSharp_RegularExpressions.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\obj\Debug\net6.0\refint\CSharp_RegularExpressions.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\obj\Debug\net6.0\CSharp_RegularExpressions.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\obj\Debug\net6.0\CSharp_RegularExpressions.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_RegularExpressions\obj\Debug\net6.0\ref\CSharp_RegularExpressions.dll
