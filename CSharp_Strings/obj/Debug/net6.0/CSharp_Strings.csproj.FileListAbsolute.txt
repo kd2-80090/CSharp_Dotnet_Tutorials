@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\bin\Debug\net6.0\CSharp_Strings.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\bin\Debug\net6.0\CSharp_Strings.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\bin\Debug\net6.0\CSharp_Strings.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\bin\Debug\net6.0\CSharp_Strings.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\bin\Debug\net6.0\CSharp_Strings.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\obj\Debug\net6.0\CSharp_Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\obj\Debug\net6.0\CSharp_Strings.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\obj\Debug\net6.0\CSharp_Strings.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\obj\Debug\net6.0\CSharp_Strings.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\obj\Debug\net6.0\CSharp_Strings.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\obj\Debug\net6.0\CSharp_Strings.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\obj\Debug\net6.0\refint\CSharp_Strings.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\obj\Debug\net6.0\CSharp_Strings.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\obj\Debug\net6.0\CSharp_Strings.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Strings\obj\Debug\net6.0\ref\CSharp_Strings.dll

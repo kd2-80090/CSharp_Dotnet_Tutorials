@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_NullableTypes", "CSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_MethodOverriding_MethodHiding_Difference", "CSharp_MethodOverriding_MethodHiding_Difference\CSharp_MethodOverriding_MethodHiding_Difference.csproj", "{FE4AAA43-C3C0-4A71-BF67-473C9E1D2C20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Arrays", "CSharp_Arrays\CSharp_Arrays.csproj", "{E1B7EE75-63E9-4C3F-BC1F-418D5444D1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Strings", "CSharp_Strings\CSharp_Strings.csproj", "{0D414AA0-4AA2-410B-A671-B313173D2FF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{FE4AAA43-C3C0-4A71-BF67-473C9E1D2C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE4AAA43-C3C0-4A71-BF67-473C9E1D2C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE4AAA43-C3C0-4A71-BF67-473C9E1D2C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B7EE75-63E9-4C3F-BC1F-418D5444D1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B7EE75-63E9-4C3F-BC1F-418D5444D1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B7EE75-63E9-4C3F-BC1F-418D5444D1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B7EE75-63E9-4C3F-BC1F-418D5444D1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D414AA0-4AA2-410B-A671-B313173D2FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D414AA0-4AA2-410B-A671-B313173D2FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D414AA0-4AA2-410B-A671-B313173D2FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D414AA0-4AA2-410B-A671-B313173D2FF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

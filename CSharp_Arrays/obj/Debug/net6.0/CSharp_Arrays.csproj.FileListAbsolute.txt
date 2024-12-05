@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\bin\Debug\net6.0\CSharp_Arrays.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\bin\Debug\net6.0\CSharp_Arrays.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\bin\Debug\net6.0\CSharp_Arrays.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\bin\Debug\net6.0\CSharp_Arrays.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\bin\Debug\net6.0\CSharp_Arrays.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\obj\Debug\net6.0\CSharp_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\obj\Debug\net6.0\CSharp_Arrays.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\obj\Debug\net6.0\CSharp_Arrays.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\obj\Debug\net6.0\CSharp_Arrays.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\obj\Debug\net6.0\CSharp_Arrays.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\obj\Debug\net6.0\CSharp_Arrays.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\obj\Debug\net6.0\refint\CSharp_Arrays.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\obj\Debug\net6.0\CSharp_Arrays.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\obj\Debug\net6.0\CSharp_Arrays.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Arrays\obj\Debug\net6.0\ref\CSharp_Arrays.dll
