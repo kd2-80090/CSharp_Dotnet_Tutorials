@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\bin\Debug\net6.0\CSharp_Inheritance_Tutorial.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\bin\Debug\net6.0\CSharp_Inheritance_Tutorial.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\bin\Debug\net6.0\CSharp_Inheritance_Tutorial.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\bin\Debug\net6.0\CSharp_Inheritance_Tutorial.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\bin\Debug\net6.0\CSharp_Inheritance_Tutorial.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\obj\Debug\net6.0\CSharp_Inheritance_Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\obj\Debug\net6.0\CSharp_Inheritance_Tutorial.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\obj\Debug\net6.0\CSharp_Inheritance_Tutorial.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\obj\Debug\net6.0\CSharp_Inheritance_Tutorial.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\obj\Debug\net6.0\CSharp_Inheritance_Tutorial.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\obj\Debug\net6.0\CSharp_Inheritance_Tutorial.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\obj\Debug\net6.0\refint\CSharp_Inheritance_Tutorial.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\obj\Debug\net6.0\CSharp_Inheritance_Tutorial.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\obj\Debug\net6.0\CSharp_Inheritance_Tutorial.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Inheritance_Tutorial\obj\Debug\net6.0\ref\CSharp_Inheritance_Tutorial.dll

@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\bin\Debug\net6.0\CSharp_Structures.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\bin\Debug\net6.0\CSharp_Structures.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\bin\Debug\net6.0\CSharp_Structures.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\bin\Debug\net6.0\CSharp_Structures.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\bin\Debug\net6.0\CSharp_Structures.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\obj\Debug\net6.0\CSharp_Structures.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\obj\Debug\net6.0\CSharp_Structures.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\obj\Debug\net6.0\CSharp_Structures.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\obj\Debug\net6.0\CSharp_Structures.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\obj\Debug\net6.0\CSharp_Structures.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\obj\Debug\net6.0\CSharp_Structures.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\obj\Debug\net6.0\refint\CSharp_Structures.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\obj\Debug\net6.0\CSharp_Structures.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\obj\Debug\net6.0\CSharp_Structures.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Structures\obj\Debug\net6.0\ref\CSharp_Structures.dll
