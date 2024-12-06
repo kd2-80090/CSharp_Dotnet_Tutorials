@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\bin\Debug\net6.0\CSharp_Reflection.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\bin\Debug\net6.0\CSharp_Reflection.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\bin\Debug\net6.0\CSharp_Reflection.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\bin\Debug\net6.0\CSharp_Reflection.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\bin\Debug\net6.0\CSharp_Reflection.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\obj\Debug\net6.0\CSharp_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\obj\Debug\net6.0\CSharp_Reflection.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\obj\Debug\net6.0\CSharp_Reflection.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\obj\Debug\net6.0\CSharp_Reflection.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\obj\Debug\net6.0\CSharp_Reflection.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\obj\Debug\net6.0\CSharp_Reflection.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\obj\Debug\net6.0\refint\CSharp_Reflection.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\obj\Debug\net6.0\CSharp_Reflection.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\obj\Debug\net6.0\CSharp_Reflection.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Reflection\obj\Debug\net6.0\ref\CSharp_Reflection.dll
