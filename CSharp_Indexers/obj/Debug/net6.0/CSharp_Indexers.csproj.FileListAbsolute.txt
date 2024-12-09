@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\bin\Debug\net6.0\CSharp_Indexers.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\bin\Debug\net6.0\CSharp_Indexers.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\bin\Debug\net6.0\CSharp_Indexers.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\bin\Debug\net6.0\CSharp_Indexers.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\bin\Debug\net6.0\CSharp_Indexers.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\obj\Debug\net6.0\CSharp_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\obj\Debug\net6.0\CSharp_Indexers.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\obj\Debug\net6.0\CSharp_Indexers.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\obj\Debug\net6.0\CSharp_Indexers.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\obj\Debug\net6.0\CSharp_Indexers.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\obj\Debug\net6.0\CSharp_Indexers.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\obj\Debug\net6.0\refint\CSharp_Indexers.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\obj\Debug\net6.0\CSharp_Indexers.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\obj\Debug\net6.0\CSharp_Indexers.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Indexers\obj\Debug\net6.0\ref\CSharp_Indexers.dll

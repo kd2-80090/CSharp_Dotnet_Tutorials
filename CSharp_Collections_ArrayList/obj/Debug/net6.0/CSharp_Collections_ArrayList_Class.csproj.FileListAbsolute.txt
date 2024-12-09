@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\bin\Debug\net6.0\CSharp_Collections_ArrayList_Class.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\bin\Debug\net6.0\CSharp_Collections_ArrayList_Class.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\bin\Debug\net6.0\CSharp_Collections_ArrayList_Class.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\bin\Debug\net6.0\CSharp_Collections_ArrayList_Class.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\bin\Debug\net6.0\CSharp_Collections_ArrayList_Class.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\obj\Debug\net6.0\CSharp_Collections_ArrayList_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\obj\Debug\net6.0\CSharp_Collections_ArrayList_Class.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\obj\Debug\net6.0\CSharp_Collections_ArrayList_Class.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\obj\Debug\net6.0\CSharp_Collections_ArrayList_Class.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\obj\Debug\net6.0\CSharp_Collections_ArrayList_Class.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\obj\Debug\net6.0\CSharp_Collections_ArrayList_Class.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\obj\Debug\net6.0\refint\CSharp_Collections_ArrayList_Class.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\obj\Debug\net6.0\CSharp_Collections_ArrayList_Class.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\obj\Debug\net6.0\CSharp_Collections_ArrayList_Class.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_Collections_ArrayList\obj\Debug\net6.0\ref\CSharp_Collections_ArrayList_Class.dll
