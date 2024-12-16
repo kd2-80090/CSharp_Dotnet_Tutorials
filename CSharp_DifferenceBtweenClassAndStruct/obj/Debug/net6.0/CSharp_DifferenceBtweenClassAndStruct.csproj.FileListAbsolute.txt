@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\bin\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\bin\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\bin\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\bin\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\bin\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\obj\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\obj\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\obj\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\obj\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\obj\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\obj\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\obj\Debug\net6.0\refint\CSharp_DifferenceBtweenClassAndStruct.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\obj\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\obj\Debug\net6.0\CSharp_DifferenceBtweenClassAndStruct.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DifferenceBtweenClassAndStruct\obj\Debug\net6.0\ref\CSharp_DifferenceBtweenClassAndStruct.dll
