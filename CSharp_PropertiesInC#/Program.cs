@@ -1,20 +1,34 @@
 ﻿
 public class Student
 {
-    //public int Id { get; set; }
-    //public string Name { get; set; }
-    //public int PassMark { get; set; }
+    private int _Id;
+    private string? _Name;
+    private int _PassMark = 35;
+    private string? _City;
+    private string? _Email;
 
-    private int Id;
-    private string? Name;
-    private int PassMark = 35;
-    public void SetId(int Id)
+    public string? Phone
     {
-        if (Id <= 0)
+        get; 
+        set;   
+    }
+
+    public string? AdharNumber{ get; set; }
+
+    public int Id
+    {
+        set
         {
-            throw new ArgumentException("Student Id cannot be negative");
+            if (value <= 0)
+            {
+                throw new ArgumentException("Student Id cannot be negative");
+            }
+            this._Id = value;
         }
-        this.Id = Id;
+        get
+        {
+            return this._Id;
+        }
     }
 
     public int GetId()
@@ -22,31 +36,55 @@ public class Student
         return this.Id;
     }
 
-    public void SetName(string Name)
+    public string Name
     {
-        if (string.IsNullOrEmpty(Name))
+        set
         {
-            throw new ArgumentException("Name cannot be null or empty");
+            if (string.IsNullOrEmpty(value))
+            {
+                throw new ArgumentException("Name cannot be null or empty");
+            }
+            this._Name = value;
         }
-        this.Name = Name;
+        get
+        {
+            return string.IsNullOrEmpty(this._Name) ? "No Name" : this._Name;
+        }
     }
 
-    public string GetName()
+    public int PassMark
     {
-        return string.IsNullOrEmpty(this.Name) ? "No Name" : this.Name;
-        //if(string.IsNullOrEmpty(Name))
-        //{
-        //    return "No Name";
-        //}
-        //else
-        //{
-        //    return this.Name;
-        //}
+        get
+        {
+            return this._PassMark;
+        }
     }
 
-    public int GetPassMark()
+    public string? City
     {
-        return this.PassMark;
+        set
+        {
+            this._City = value;
+        }
+        get
+        {
+            return this._City;
+        }
+    }
+
+    public string Email
+    {
+        set
+        {
+            if (string.IsNullOrEmpty(value))
+            {
+                throw new ArgumentException("Email cannot be null or empty");
+            }
+            else
+            {
+                this._Email = value;
+            }
+        }
     }
 }
 
@@ -66,13 +104,16 @@ public class Program
 
         //s.SetId(-101);
 
-        s.SetId(101);
+        s.Id = 101;
+        //s.SetId(101);
         //s.SetName(null);
-        s.SetName("Nilesh");
+        s.Name = "Nilesh";
+        //s.PassMark = 24;  // Error
 
-        Console.WriteLine("Student Id : {0}", s.GetId());
-        Console.WriteLine("Student Name : {0}", s.GetName());
-        Console.WriteLine("Student Marks : {0}", s.GetPassMark());
+        //Console.WriteLine("Student Id : {0}", s.GetId());
+        Console.WriteLine("Student Id : {0}", s.Id);
+        Console.WriteLine("Student Name : {0}", s.Name);
+        Console.WriteLine("Student Marks : {0}", s.PassMark);
 
         Console.ReadKey();
     }
