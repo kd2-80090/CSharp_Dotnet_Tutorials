@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Collection_Queue_Cla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_MethodOverloading", "CSharp_MethodOverloading\CSharp_MethodOverloading.csproj", "{0FDE6862-1F83-4874-8543-868BBE5B0814}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_DotnetProperties", "CSharp_DotnetProperties\CSharp_DotnetProperties.csproj", "{99EE98D2-36DF-4695-AA9F-7FDC2FDF45D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{0FDE6862-1F83-4874-8543-868BBE5B0814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FDE6862-1F83-4874-8543-868BBE5B0814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FDE6862-1F83-4874-8543-868BBE5B0814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EE98D2-36DF-4695-AA9F-7FDC2FDF45D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EE98D2-36DF-4695-AA9F-7FDC2FDF45D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EE98D2-36DF-4695-AA9F-7FDC2FDF45D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EE98D2-36DF-4695-AA9F-7FDC2FDF45D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

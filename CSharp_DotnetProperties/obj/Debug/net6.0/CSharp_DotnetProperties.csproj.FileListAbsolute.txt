@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\bin\Debug\net6.0\CSharp_DotnetProperties.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\bin\Debug\net6.0\CSharp_DotnetProperties.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\bin\Debug\net6.0\CSharp_DotnetProperties.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\bin\Debug\net6.0\CSharp_DotnetProperties.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\bin\Debug\net6.0\CSharp_DotnetProperties.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\obj\Debug\net6.0\CSharp_DotnetProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\obj\Debug\net6.0\CSharp_DotnetProperties.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\obj\Debug\net6.0\CSharp_DotnetProperties.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\obj\Debug\net6.0\CSharp_DotnetProperties.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\obj\Debug\net6.0\CSharp_DotnetProperties.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\obj\Debug\net6.0\CSharp_DotnetProperties.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\obj\Debug\net6.0\refint\CSharp_DotnetProperties.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\obj\Debug\net6.0\CSharp_DotnetProperties.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\obj\Debug\net6.0\CSharp_DotnetProperties.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_DotnetProperties\obj\Debug\net6.0\ref\CSharp_DotnetProperties.dll

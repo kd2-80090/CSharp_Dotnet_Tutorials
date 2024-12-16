@@ -11,10 +11,16 @@ class Program
         Console.WriteLine($"Sum = {Sum}");
     }
 
-    public void Add(float FN, int SN, int TN)
+    public void Add(int FN, int SN, int TN)
     {
         Console.WriteLine("Sum = {Sum}", FN + SN);
     }
+
+    //public int Add(int FN, int SN, int TN)
+    //{
+    //    Console.WriteLine("Sum = {Sum}", FN + SN);
+    //    return FN + SN + TN;
+    //}
 
     public void Add(int FN, int SN, out int Sum)
     {
