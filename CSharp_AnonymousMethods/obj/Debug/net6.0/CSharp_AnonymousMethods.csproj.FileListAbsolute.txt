@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\bin\Debug\net6.0\CSharp_AnonymousMethods.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\bin\Debug\net6.0\CSharp_AnonymousMethods.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\bin\Debug\net6.0\CSharp_AnonymousMethods.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\bin\Debug\net6.0\CSharp_AnonymousMethods.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\bin\Debug\net6.0\CSharp_AnonymousMethods.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\obj\Debug\net6.0\CSharp_AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\obj\Debug\net6.0\CSharp_AnonymousMethods.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\obj\Debug\net6.0\CSharp_AnonymousMethods.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\obj\Debug\net6.0\CSharp_AnonymousMethods.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\obj\Debug\net6.0\CSharp_AnonymousMethods.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\obj\Debug\net6.0\CSharp_AnonymousMethods.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\obj\Debug\net6.0\refint\CSharp_AnonymousMethods.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\obj\Debug\net6.0\CSharp_AnonymousMethods.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\obj\Debug\net6.0\CSharp_AnonymousMethods.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_AnonymousMethods\obj\Debug\net6.0\ref\CSharp_AnonymousMethods.dll

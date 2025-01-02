@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\obj\Debug\net6.0\CSharp_UnsafeCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\obj\Debug\net6.0\CSharp_UnsafeCodes.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\obj\Debug\net6.0\CSharp_UnsafeCodes.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\obj\Debug\net6.0\CSharp_UnsafeCodes.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\obj\Debug\net6.0\CSharp_UnsafeCodes.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\bin\Debug\net6.0\CSharp_UnsafeCodes.exe
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\bin\Debug\net6.0\CSharp_UnsafeCodes.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\bin\Debug\net6.0\CSharp_UnsafeCodes.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\bin\Debug\net6.0\CSharp_UnsafeCodes.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\bin\Debug\net6.0\CSharp_UnsafeCodes.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\obj\Debug\net6.0\CSharp_UnsafeCodes.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\obj\Debug\net6.0\refint\CSharp_UnsafeCodes.dll
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\obj\Debug\net6.0\CSharp_UnsafeCodes.pdb
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\obj\Debug\net6.0\CSharp_UnsafeCodes.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\CSharp_UnsafeCodes\obj\Debug\net6.0\ref\CSharp_UnsafeCodes.dll
