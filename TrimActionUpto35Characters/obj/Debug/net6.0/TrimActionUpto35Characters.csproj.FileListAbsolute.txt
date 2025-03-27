@@ -1,0 +1,15 @@
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\bin\Debug\net6.0\TrimActionUpto35Characters.exe
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\bin\Debug\net6.0\TrimActionUpto35Characters.deps.json
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\bin\Debug\net6.0\TrimActionUpto35Characters.runtimeconfig.json
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\bin\Debug\net6.0\TrimActionUpto35Characters.dll
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\bin\Debug\net6.0\TrimActionUpto35Characters.pdb
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\obj\Debug\net6.0\TrimActionUpto35Characters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\obj\Debug\net6.0\TrimActionUpto35Characters.AssemblyInfoInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\obj\Debug\net6.0\TrimActionUpto35Characters.AssemblyInfo.cs
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\obj\Debug\net6.0\TrimActionUpto35Characters.csproj.CoreCompileInputs.cache
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\obj\Debug\net6.0\TrimActionUpto35Characters.sourcelink.json
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\obj\Debug\net6.0\TrimActionUpto35Characters.dll
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\obj\Debug\net6.0\refint\TrimActionUpto35Characters.dll
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\obj\Debug\net6.0\TrimActionUpto35Characters.pdb
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\obj\Debug\net6.0\TrimActionUpto35Characters.genruntimeconfig.cache
+D:\C#\Tutorials\CSharp_Tutorials\TrimActionUpto35Characters\obj\Debug\net6.0\ref\TrimActionUpto35Characters.dll
